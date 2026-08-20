@@ -1,4 +1,5 @@
 # Bone-on-Chip Image Analysis
+[![DOI](https://zenodo.org/badge/1340075561.svg)](https://doi.org/10.5281/zenodo.22035587)
 
 This repository contains custom Fiji/ImageJ macros used for image processing and quantitative analysis in a bone-on-a-chip study investigating osteoblast responses and collagen extracellular matrix organization under high-glucose and inflammatory conditions.
 
