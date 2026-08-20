@@ -1,8 +1,10 @@
-// RUNX2 nuclear-to-cytoplasmic fluorescence quantification
+// RUNX2 Nuclear and Cytoplasmic Fluorescence Quantification
 //
 // Purpose:
-// Quantifies RUNX2 subcellular localization as the nuclear-to-cytoplasmic
-// fluorescence intensity ratio (N/C ratio) in confocal images.
+// Fiji/ImageJ macro used to segment nuclear and cytoplasmic regions
+// and quantify RUNX2 fluorescence intensity within each compartment
+// for subsequent calculation of the nuclear-to-cytoplasmic (N/C)
+// fluorescence intensity ratio.
 //
 // Software:
 // Fiji/ImageJ
@@ -16,8 +18,9 @@
 // Version: 1.0
 //
 // Notes:
-// This macro was used for the image-analysis workflow described in the
-// associated manuscript.
+// The workflow includes manual channel selection and export of the
+// Results table. Thresholding and image-processing parameters are
+// subsequently applied as defined in the macro.
 
 
 // Select the phalloidin channel (C2) and assign the green LUT
