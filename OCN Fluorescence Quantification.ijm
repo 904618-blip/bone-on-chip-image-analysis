@@ -13,7 +13,7 @@
 // Bone-on-chip image analysis
 //
 // Author:
-// Veronica Sosa Castellano
+// Veronica Sosa-Castellano
 //
 // Version: 1.0
 //
