@@ -50,7 +50,7 @@ The repository is intended to provide the image-analysis workflows used in the s
 
 ## Author
 
-Veronica Sosa Castellano
+Veronica Sosa-Castellano
 
 ## Version
 
