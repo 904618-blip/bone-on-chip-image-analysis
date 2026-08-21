@@ -6,6 +6,9 @@ authors:
   - family-names: "Sosa-Castellano"
     given-names: "Verónica"
     orcid: "https://orcid.org/0000-0002-9718-5851"
+  - family-names: "Calderón-Villalba"
+    given-names: "Alejandro"
+    orcid: "https://orcid.org/0000-0002-7058-5572"
 version: "1.0"
 date-released: 2026-08-20
 doi: "10.5281/zenodo.22035588"
